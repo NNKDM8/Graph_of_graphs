@@ -3,7 +3,7 @@ A small executable file that helps to use the results related to multi-criteria 
 
 Szádoczki, Zs., Sipos, L., Galambosi, Zs., Bozóki, S. (2025). An experimental approach: The graph of graphs. Manuscript. https://doi.org/10.48550/arXiv.2508.17520
 
-Szádoczki, Zs., Bozóki, S. (2025). Optimal sequences for pairwise comparisons: the graph of graphs approach. Annals of Operations Research, in press. Available at: https://doi.org/10.48550/arXiv.2205.08673
+Szádoczki, Zs., Bozóki, S. (2025). Optimal sequences for pairwise comparisons: the graph of graphs approach. Annals of Operations Research, in press. https://doi.org/10.1007/s10479-025-06752-z
 
 Gyarmati, L., Orbán-Mihálykó, É., Mihálykó, Cs., Szádoczki, Zs., Bozóki, S. (2023). The incomplete analytic hierarchy process and Bradley–Terry model: (In)consistency and information retrieval. Expert Systems with Applications, 229(Part B):120522. https://doi.org/10.1016/j.eswa.2023.120522
 
